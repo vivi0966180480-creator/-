@@ -1,0 +1,6 @@
+{
+  "name": "班級抽籤與分組",
+  "description": "專為老師打造的課堂工具：支援 CSV 上傳與貼上名單，提供動畫音效隨機抽籤（可設定重複或不重複）與視覺化自動分組功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
